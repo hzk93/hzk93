@@ -16,8 +16,6 @@ Started with HTML, in love with JavaScript and the technologies based on it.
 src="https://img.shields.io/twitter/follow/hzk_engr?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-([![wakatime](https://wakatime.com/badge/user/50251587-c597-4b20-b407-234cb2ed5e31.svg)](https://wakatime.com/@50251587-c597-4b20-b407-234cb2ed5e31))
-
 ### Skills
 
 <p align="left">
