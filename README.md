@@ -1,4 +1,4 @@
-Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5">, My name is Hassan Zahoor Khan
+Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20">, My name is Hassan Zahoor Khan
 ===================================
 
 Stack Developer | MERN Stack
